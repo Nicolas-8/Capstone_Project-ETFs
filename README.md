@@ -4,7 +4,7 @@ For week 1, you will required to submit the following:
 1. A description of the problem and a discussion of the background. (15 marks)
 2. A description of the data and how it will be used to solve the problem. (15 marks)
 
-# Submission: ETFs World Map and Returns
+# Submission: ETFs World Map and (smoothing) Returns
 
 1. Problem description / background discussion (who would be interested in this project)
 
