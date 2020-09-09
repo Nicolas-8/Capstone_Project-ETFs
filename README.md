@@ -21,4 +21,4 @@ The data is already sorted by Net asset (USD) so the choropleth map should choos
     iShares ETFs USA (no specific investor type): 
 https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 
-For week 2, I need a solution how to over-/underweight the Top 5 positive return performers and over-/underweight the Worst 5 positive return performers, or vice versa, to see which strategy work best.
+For week 2, I need a solution how to over-/underweight the Top 5 positive return performers and over-/underweight the Worst 5 positive return performers, or vice versa, to see which strategy works best.
