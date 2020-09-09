@@ -10,7 +10,7 @@ For week 1, you will required to submit the following:
 
    (Passive) Investors in ETFs might want to over-/underweight, or even exclude certain countries from their portfolios from time to time due to their negative performance in the past and for increased portfolio return in the future.
 
-    Such data in a choropleth map might be supportive for the sales management department of a bank as well and helps identifying regions of interest for the sales of ETFs tracking such indices.  A heat map would show consistent returns over the years as an additional investment argument.
+    Such data in a choropleth map might be supportive for the (1) individual client or the (2) sales management department of a bank as well and helps identifying regions of interest for the sales of ETFs tracking such indices.  A heat map would show consistent returns over the years as an additional investment argument.
 
 2.	Data description (and use to solve the problem) and source (acquisition/cleaning)
 
