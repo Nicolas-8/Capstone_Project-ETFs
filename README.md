@@ -10,10 +10,10 @@ For week 1, you will required to submit the following:
 (Passive) Investors might want to over-/underweight, or even exclude certain countries from their portfolios from time to time due to their negative performance in the past and for increased portfolio return in the future.
 Such data in a choropleth map might be supportive for the sales management department of a bank and helps identifying regions of interest for the sales of ETFs tracking such indices.  A heat map would show consistent returns over few years for an additional investment argument.
 
-For week 2 I need a solution how to over-/underweight the Top 5 positive return performers and over-/underweight the Worst 5 positive return performers, or vice versa, to see which strategy work best.
-
 2.	Data description (and use to solve the problem) and source (acquisition/cleaning)
 For simplicity reasons I first checked the largest issuer, iShares (BlackRock) for any data on Equity ETFs.
 With the link below you can access the file as well if you plan to build something similar with it. This data made my Bloomberg Terminal access obsolete for now but BBG might be an additional source for later if needed.
 The data is already sorted by Net asset (USD) so the choropleth map should choose the largest ETF for each country. I only included Equity ETF (asset class) in the data file.
 iShares ETFs USA (no specific investor type): https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
+
+For week 2, I need a solution how to over-/underweight the Top 5 positive return performers and over-/underweight the Worst 5 positive return performers, or vice versa, to see which strategy work best.
