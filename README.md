@@ -18,7 +18,7 @@ For week 1, you will required to submit the following:
 With the link below you can access the file as well if you plan to build something similar with it. This data made my Bloomberg Terminal access obsolete for now but BBG might be an additional source for later if needed.
 The data is already sorted by Net asset (USD) so the choropleth map should choose the largest ETF for each country. I only included Equity ETF (asset class) in the data file.
 
-iShares ETFs USA (no specific investor type): 
+    iShares ETFs USA (no specific investor type): 
 https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 
 For week 2, I need a solution how to over-/underweight the Top 5 positive return performers and over-/underweight the Worst 5 positive return performers, or vice versa, to see which strategy work best.
