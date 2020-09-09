@@ -16,7 +16,7 @@ For week 1, you will required to submit the following:
 
     For simplicity reasons I first checked the largest issuer, iShares (BlackRock) for any data available on Equity ETFs.
 With the link below you can access the file as well if you plan to build something similar with it. This data made my Bloomberg Terminal access obsolete for now but BBG might be an additional source for later, if needed (e.g. missing volume for a risk/return scatter plot).
-The data is already sorted by Net asset (USD) so the choropleth map should choose the largest ETF for each country. I only included Equity ETF (asset class) in the data file.
+I only included Equity ETF (asset class) in the data file. The data is already sorted by Net asset (USD) so the choropleth map should choose the largest ETF for each country. There are different YTD returns available as well for the heat map.
 
     iShares ETFs USA (no specific investor type): 
 https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
